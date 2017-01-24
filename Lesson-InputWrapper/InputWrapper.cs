@@ -7,7 +7,6 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-
 namespace InputWrapperProject
 {
     internal struct InputButtons // This is internal class (we can access it from all the assembly) this is also a struct (good for encapsulation of a little group of variables linked).

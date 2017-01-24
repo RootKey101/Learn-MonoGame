@@ -28,7 +28,6 @@ namespace FirstProject_DrawAndControl
             base.Initialize();
 
             //Add your initialization code here.
-
             IsMouseVisible = true; // Show the mouse cursor while playing.
 
             positionImage1 = new Vector2(100f, 100f); // Initial position of image1.

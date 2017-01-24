@@ -3,14 +3,16 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
 
-namespace CleanWindowsProjectDX
+namespace CleanGame1
 {
-
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        //Add your variables here.
+        
+        
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
